@@ -1,0 +1,14 @@
+django==4.1.7 # Django web framework
+django-environ==0.10.0 # Manage environment variables
+djangorestframework==3.14.0 # Toolkit for building web APIs
+django-cors-headers==3.14.0 # Cross-Origin Resource Sharing support
+django-filter==22.1 # Filtering support for REST
+django-autoslug==1.9.8 # Automated slug field for models
+django-countries==7.5.1 # Countries data
+django-phonenumber-field==7.0.2 # Phone number field for models
+phonenumbers==8.13.7 # Validating phone numbers
+drf-yasg==1.21.5 # Automated generation of OpenAPI schema
+Pillow==9.4.0 # Python Imaging Library
+argon2-cffi==21.3.0 # Secure password hashing
+pytz==2022.7.1 # Cross-platform timezone calculations
+django-taggit==3.1.0 # Reusable Django app for tag management
